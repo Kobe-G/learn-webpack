@@ -1,0 +1,16 @@
+{
+  "name": "lesson03",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.8"
+  }
+}
